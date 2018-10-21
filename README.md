@@ -1,8 +1,8 @@
 ##*Aakash Deshpande*##
 
-#NLP#
+#*NLP*#
 
-This repository contains my scracth projects related to Natural Language Processing.
+This repository contains my scratch projects related to Natural Language Processing.
 
 ##Installation##
 ====================================================================
